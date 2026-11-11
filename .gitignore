@@ -1,0 +1,55 @@
+__pycache__/
+*.pyc
+.env
+data/
+*.db
+.venv/
+venv/
+.pytest_cache/
+.DS_Store
+*.egg-info/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environments
+venv/
+venv311/
+.env/
+.venv/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Vector database
+chroma_db/
+chroma/
+.chroma/
+
+# Uploaded and generated files
+uploads/
+data/
+logs/
+*.log
+
+# Streamlit
+.streamlit/secrets.toml
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
