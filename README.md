@@ -269,7 +269,7 @@ Grounded answer with cited sources, confidence score, latency, and token usage.
 ## Tech stack
 
 **Backend:** Python, FastAPI, SQLAlchemy, SQLite
-**AI/RAG:** LangChain, Google Gemini 1.5 Flash, Google Gemini Embeddings, ChromaDB
+**AI/RAG:** LangChain, Google Gemini 3.8 Flash, Google Gemini Embeddings, ChromaDB
 **Frontend:** Streamlit
 **Infra:** Docker, Docker Compose
 
